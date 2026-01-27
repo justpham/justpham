@@ -6,15 +6,6 @@ I also have worked at the following companies:
   - AMD 🟥
   - Intel 🟦
 
-# 🔭 I’m currently working on ...
-  - Building a Video Call App in C++
-  - Bootloader for a STM32F* Microcontroller
-
-# 🌱 I’m currently learning ...
-  - TCP/IP
-  - Operating System Theory
-  - Embedded Systems + Microcontrollers
-
 # 🛝 Some of my Hobbies ... 
   - Table Tennis 🏓
   - Volleyball 🏐
